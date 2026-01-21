@@ -1,19 +1,26 @@
-# p.loqn.qipq
 <h1 align="center">Hi 👋, I'm Dino</h1>
-<h3 align="center">Student at FPT University · Software Engineering</h3>
+<h3 align="center">Cybersecurity Student · FPT University</h3>
+
+<p align="center">
+  Interested in <b>Cybersecurity, Pentesting, Linux, and Secure Coding</b>
+</p>
 
 ---
 
-### 🚀 Languages & Tools
+### 🔐 Security Skills & Tools
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="42"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pentesting-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Secure%20Coding-1f6feb?style=for-the-badge"/>
 </p>
 
 ---
