@@ -1,51 +1,10 @@
-<h1 align="center">Hi 👋, I'm Dino</h1>
-<h3 align="center">Cybersecurity Student · FPT University</h3>
+md
+👏 Shout-outs & Appreciation
+This project extends heartfelt appreciation to all 34 educational platforms, training providers, and organizations included in this repository.
 
-<p align="center">
-  Interested in <b>Cybersecurity, Pentesting, Linux, and Secure Coding</b>
-</p>
+Their dedication to delivering free, high-quality courses, hands-on labs, study materials, and certificates has created a learning ecosystem that truly empowers beginners, students, and self-taught cybersecurity learners around the world.
 
----
+Thanks to their ongoing commitment to open and accessible education, this repository can exist as a unified space where curiosity, skill-building, and growth are encouraged without barriers. Their contributions don’t just support learning — they help shape the next generation of cybersecurity professionals.
 
-### 🔐 Security Skills & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="42"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/>
-</p>
+SleuthKitLabs RedTeamLeaders HP LIFE Gremlin 101Blockchains Cyrus SecurityBlueTeam LinuxFoundation cPanel upGrad AttackIQ MastermindAssurance ADBI Commodious TCMSecurity LinkedInLearning AWS Cybrary Cursa OSWAT ITMasters APIsecUniversity Simplilearn PaloAltoSOC WolframU DisasterReady GreatLearning FutureLearn arcX OpenLearn AWSBuild HPCyber ITScripts
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pentesting-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Secure%20Coding-1f6feb?style=for-the-badge"/>
-</p>
-
----
-
-### 🌐 Connect with me
-<p align="center">
-  <a href="https://www.facebook.com/TranPhiLong.Profilee">
-    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/_p.loqn.qipq_/">
-    <img src="https://img.shields.io/badge/Instagram-F35369?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dino&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dino&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dino&theme=onedark&row=1&margin-w=15"/>
-</p>
